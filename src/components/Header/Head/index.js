@@ -5,7 +5,7 @@ import './style.css';
 
 export const Head = () => {
 	return (
-		<Link to={'/'}>
+		<Link to='/'>
 			<div className='head-div'>
 				<h1>La Republica</h1>
 			</div>
