@@ -1,0 +1,5 @@
+.content-layout {
+	display: flex;
+	flex-direction: column;
+	width: 80vw;
+}
